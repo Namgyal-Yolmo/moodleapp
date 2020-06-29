@@ -62,12 +62,12 @@
     "wsextservice": "local_mobile",
     "demo_sites": {
         "student": {
-            "url": "https:\/\/school.ecorrigodemo.net",
+            "url": "https:\/\/demo.ecorrigo.com",
             "username": "student",
             "password": "ecorrigo"
         },
         "teacher": {
-            "url": "https:\/\/school.ecorrigodemo.net",
+            "url": "https:\/\/demo.ecorrigo.com",
             "username": "teacher",
             "password": "ecorrigo"
         }
