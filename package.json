@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
+  "name": "ecorrigomobile",
   "version": "3.9.0",
-  "description": "The official app for Moodle.",
+  "description": "The official app for eCorrigo.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Mayel Lyang Ronglyang Technologies Pvt Ltd",
+    "email": "support@ecorrigo.com"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
